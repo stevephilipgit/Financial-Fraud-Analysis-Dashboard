@@ -8,6 +8,21 @@ Transformed raw, large-scale data into a **business-ready dashboard** using adva
 This project demonstrates the ability to **handle real-world data volumes, engineer meaningful features, and deliver actionable insights**.
 
 ---
+## 🖼️ Dashboard Preview
+
+### View 1
+
+![Dashboard 1](./images/dash1_finacial_log.png)
+
+### View 2
+
+![Dashboard 2](./images/dash2_financial_log.png)
+
+### View 3
+
+![Dashboard 3](./images/dash3_financial_log.png)
+
+---
 
 ## 🎯 Key Outcomes
 
@@ -98,22 +113,6 @@ This project demonstrates the ability to **handle real-world data volumes, engin
 * Amount analysis by type
 * Fraud and risk-focused charts
 * Clean, structured layout for readability
-
----
-
-## 🖼️ Dashboard Preview
-
-### View 1
-
-![Dashboard 1](./images/dash1_finacial_log.png)
-
-### View 2
-
-![Dashboard 2](./images/dash2_financial_log.png)
-
-### View 3
-
-![Dashboard 3](./images/dash3_financial_log.png)
 
 ---
 
