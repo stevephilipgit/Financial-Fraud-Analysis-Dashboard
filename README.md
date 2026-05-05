@@ -105,15 +105,15 @@ This project demonstrates the ability to **handle real-world data volumes, engin
 
 ### View 1
 
-![Dashboard 1](./images/dashboard1.png)
+![Dashboard 1](./images/dash1_finacial_log.png)
 
 ### View 2
 
-![Dashboard 2](./images/dashboard2.png)
+![Dashboard 2](./images/dash2_financial_log.png)
 
 ### View 3
 
-![Dashboard 3](./images/dashboard3.png)
+![Dashboard 3](./images/dash3_financial_log.png)
 
 ---
 
